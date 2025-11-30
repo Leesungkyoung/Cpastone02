@@ -1,0 +1,20 @@
+[
+  {
+    "rank": 1,
+    "sampling": "SMOTE",
+    "model": "LightGBM",
+    "best_auc_pr_val": 0.17511270867078849,
+    "best_params": "{'num_leaves': 28, 'max_depth': 15, 'learning_rate': 0.26690431824362526, 'n_estimators': 252, 'feature_fraction': 0.6523068845866853, 'bagging_fraction': 0.5488360570031919, 'bagging_freq': 5, 'min_child_samples': 25}",
+    "baseline_auc_pr": 0.3023163343687299,
+    "improvement": -0.1272036256979414
+  },
+  {
+    "rank": 2,
+    "sampling": "SMOTE",
+    "model": "RandomForest",
+    "best_auc_pr_val": 0.1589386297567577,
+    "best_params": "{'n_estimators': 103, 'max_depth': 10, 'min_samples_split': 14, 'min_samples_leaf': 8, 'max_features': None}",
+    "baseline_auc_pr": 0.2555231813739834,
+    "improvement": -0.09658455161722568
+  }
+]

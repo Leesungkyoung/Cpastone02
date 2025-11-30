@@ -1,0 +1,18 @@
+numpy>=1.26
+pandas>=2.2
+scikit-learn>=1.5
+imbalanced-learn>=0.12
+matplotlib>=3.9
+plotly>=5.22
+python-dotenv>=1.0
+ipykernel>=6.29
+seaborn>=0.13
+
+fastapi
+uvicorn
+pydantic
+joblib
+
+pip install --force-reinstall "scikit-learn==1.5.2"
+pip install --force-reinstall "imbalanced-learn==0.12.3"
+pip install --force-reinstall "numpy==2.2.6"

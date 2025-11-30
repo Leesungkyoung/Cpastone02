@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/capstone02/bin/python",
+"python.analysis.typeCheckingMode": "off",
+"jupyter.kernels.excludePythonEnvironments": [
+    "capstone02"
+]
+}

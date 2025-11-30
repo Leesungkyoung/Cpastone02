@@ -1,0 +1,27 @@
+{
+  "n_folds": 5,
+  "stability_threshold": 3,
+  "top_k_experiments": {
+    "20": {
+      "total_unique_features": 54,
+      "core_features_count": 14,
+      "avg_stability": 0.3703703703703703,
+      "max_stability": 1.0,
+      "min_stability": 0.2
+    },
+    "40": {
+      "total_unique_features": 95,
+      "core_features_count": 28,
+      "avg_stability": 0.4210526315789477,
+      "max_stability": 1.0,
+      "min_stability": 0.2
+    },
+    "80": {
+      "total_unique_features": 164,
+      "core_features_count": 70,
+      "avg_stability": 0.4878048780487804,
+      "max_stability": 1.0,
+      "min_stability": 0.2
+    }
+  }
+}

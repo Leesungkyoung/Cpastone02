@@ -1,0 +1,22 @@
+{
+  "top_k": 20,
+  "n_features": 14,
+  "stability_threshold": 3,
+  "n_folds": 5,
+  "features": [
+    "sensor_130",
+    "sensor_060",
+    "sensor_103",
+    "sensor_407",
+    "sensor_229",
+    "sensor_541",
+    "sensor_172",
+    "sensor_015",
+    "sensor_064",
+    "sensor_486",
+    "sensor_443",
+    "sensor_413",
+    "sensor_456",
+    "sensor_429"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "version": "stageI_final",
+  "threshold_type": "best_f1",
+  "threshold_value": 0.6429997389333499,
+  "description": "SMOTE-ENN + LGBM + Optuna 이후, PR-curve 기반 Best F1 threshold"
+}
