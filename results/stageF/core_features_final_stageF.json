@@ -1,0 +1,23 @@
+{
+  "n_selected_features": 6,
+  "selected_features": [
+    "sensor_060",
+    "sensor_103",
+    "sensor_104",
+    "sensor_130",
+    "sensor_342",
+    "sensor_426"
+  ],
+  "n_tentative_features": 3,
+  "tentative_features": [
+    "sensor_291",
+    "sensor_332",
+    "sensor_349"
+  ],
+  "boruta_params": {
+    "estimator": "RandomForestClassifier",
+    "n_estimators": "auto",
+    "class_weight": "balanced_subsample",
+    "random_state": 42
+  }
+}
